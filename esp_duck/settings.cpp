@@ -1,12 +1,8 @@
-
-
 #include "settings.h"
-
 #include "spiffs.h"
 #include "debug.h"
 #include "config.h"
 #include "eeprom.h"
-
 #define SETTINGS_ADDRES 1
 #define SETTINGS_MAGIC_NUM 1234567891
 

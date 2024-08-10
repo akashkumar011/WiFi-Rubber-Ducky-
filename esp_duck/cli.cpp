@@ -1,15 +1,10 @@
-
-
 #include "cli.h"
-
 // SimpleCLI library
 #include <SimpleCLI.h>
-
 // Get RAM (heap) usage
 extern "C" {
 #include "user_interface.h"
 }
-
 // Import modules used for different commands
 #include "spiffs.h"
 #include "duckscript.h"

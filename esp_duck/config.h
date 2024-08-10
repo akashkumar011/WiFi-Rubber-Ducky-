@@ -32,11 +32,11 @@
 #define BOOT_MAGIC_NUM    1234567890
 
 /*! ===== WiFi Settings ===== */
-#define WIFI_SSID "wifiduck"
-#define WIFI_PASSWORD "wifiduck"
+#define WIFI_SSID "Akash_wifi_Rubber_duck"
+#define WIFI_PASSWORD "Akash@024161"
 #define WIFI_CHANNEL "1"
 
-#define HOSTNAME "wifiduck"
+#define HOSTNAME "Akash_wifi_Rubber_duck"
 #define URL "wifi.duck"
 
 /*! ========== Safty checks ========== */
